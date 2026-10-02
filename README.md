@@ -8,4 +8,4 @@ To create an "Agent" in VS Code select "Configure Custom Agent" in Copilot Code.
 
 Although these agents were designed for use in VS Code, the general set of custom instructions can be used in any AI coding assistant tool such as Claude Code.
 
-As a general principle, the agents make an AI declaration and do not make inline comments.
+As a general principle, the agents make an AI declaration and do not make inline comments. The idea is to create transparency about tool use but ensure that the historian is able to comment and explain the generated code.
